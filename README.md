@@ -1,2 +1,2 @@
 # ResponsiveFrameKit
- Gradient and a responsive Frame
+ Gradient and a responsive Frame kit
